@@ -5,6 +5,7 @@ Jika pandemi terjadi, masyarakat akan digolongkan menjadi 3 tipe, yaitu orang ya
 orang yang sehat rentan terinfeksi oleh penyakit, golongan ini diberi tanda S (Suspectible)
 orang yang terinfeksi berada dalam tahapan sakit, golongan ini diberi tanda I (Infected)
 orang yang sembuh cenderung kebal terhadap penyakit yang sama, golongan ini diberi tanda R (recovered)
+simulasi ini dilakukan dengan integral metode numerik menggunakan metode SIR
 
 if pandemic happend, citizen are divided into 3 types, Suspectible, infected, & recovered
 citizen that suspectible is easy to get infected, therefore they labeled as S
